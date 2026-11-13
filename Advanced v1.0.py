@@ -1,7 +1,7 @@
 import matplotlib.pyplot as plt
 from matplotlib.ticker import MaxNLocator
 
-#Now there is no difference between basic 
+#Now there is no difference between basic and this version
 
 n = int(input("Enter an amount of numbers: "))
 x = []
